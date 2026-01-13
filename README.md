@@ -1,5 +1,5 @@
 # ADS-projetos
-Meus primeiros projetos
+Meus projetos
 # Aprendizado em GitHub
 
 Este repositório foi criado para registrar meus primeiros passos no GitHub e no uso do Git.
